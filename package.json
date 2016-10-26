@@ -1,13 +1,13 @@
 {
-  "name": "next-test",
+  "name": "nextjs-page-hierarchy",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple example of how one can get some base page templating into their next.js application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "next start"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Matthew Frey <matthewfrey118@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "next": "^1.0.0"
   }
